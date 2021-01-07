@@ -1,0 +1,6 @@
+Welcome to my first git class
+I have learned how to fetch all branches along with main bracnh in local folder
+
+"git remote add origin URL"
+"git fetch --all"
+"git checkout branch-name"
